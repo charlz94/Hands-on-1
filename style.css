@@ -1,0 +1,129 @@
+/*
+body {    
+    background-color:lightblue;
+    background-image: url(img/background.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment:fixed; 
+}
+
+.header{
+    max-width:80%;
+    height:300px;
+    padding:25px;
+    border:3px solid navy;
+    margin:25px;
+    background-color: azure;   
+    margin-right:auto;
+    margin-left:auto; 
+}
+
+.content{
+    max-width:80%;
+    height:300px;
+    padding:25px;
+    border:3px solid navy;
+    margin:25px;
+    background-color: azure;  
+    margin-right:auto;
+    margin-left:auto;     
+}
+
+.wrapper{
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    
+}
+
+
+
+
+.footer{
+    max-width:80%;
+    height:50px;
+    padding:25px;
+    border:3px solid navy;
+    margin:25px;    
+    background-color: azure;
+    margin-right:auto;
+    margin-left:auto;   
+}
+*/
+
+body{
+    background: lightblue;
+}
+
+.wrapper{
+    width:80%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.logo{
+    height: 20px;
+    background-color: aqua;
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 60px;
+}
+
+.nav{
+    height: 40px;
+    background-color: blanchedalmond;
+    margin-bottom: 5px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.content{
+    height: 600px;
+}
+
+.contentA{
+    height: 400px;
+    width: 50%;
+    float: left;
+    background-color: white;
+    text-align: left;
+}
+
+.contentB{
+    height: 200px;
+    width: 50%;
+    float: right;
+    background-color: chartreuse;
+    text-align: left;
+    
+}
+
+.contentC{
+    height: 200px;
+    width: 50%;
+    float: right;
+    background-color: blueviolet;
+    text-align: left;
+}
+
+.contentD{
+    height: 200px;
+    width: 100%;
+    float: right;
+    background-color: darkgray;
+    text-align: left;
+}
+
+.footer{
+    height:50px;
+    background-color: darkgreen;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 25px;
+}
